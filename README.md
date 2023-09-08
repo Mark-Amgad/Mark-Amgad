@@ -3,7 +3,9 @@
 
 - 👨‍💻 I’m a **Software/Backend Engineer**
 
-<--! - 💻 I’m working as a freelancer on **Upwork** -->
+<--!
+- 💻 I’m working as a freelancer on **Upwork**
+-->
 
 - 📫 How to reach me **markamgad5@gmail.com**
 
