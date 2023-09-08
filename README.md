@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m a **Software/Backend Engineer**
 
-<--!
+<!--
 - 💻 I’m working as a freelancer on **Upwork**
 -->
 
