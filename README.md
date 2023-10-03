@@ -30,6 +30,7 @@
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/000000/react-native" alt="React" title="React" width="48" height="48" />
 </div>
 </p>
 
