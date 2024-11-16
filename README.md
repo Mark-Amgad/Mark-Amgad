@@ -32,7 +32,7 @@
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/react-native" alt="React" title="React" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
-    <img src="https://worldvectorlogo.com/download/fastapi-1.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" title="FastAPI" width="48" height="48" />
 </div>
 </p>
 
