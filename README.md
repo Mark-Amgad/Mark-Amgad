@@ -31,6 +31,8 @@
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="48" height="48" />
     <img src="https://img.icons8.com/color/48/000000/react-native" alt="React" title="React" width="48" height="48" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
+    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
 </div>
 </p>
 
