@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Mark Amgad</h1>
-<h3 align="center">An enthusiastic Software Engineer from Egypt.</h3>
+<h3 align="center">An enthusiastic Software Engineer.</h3>
 
 - 👨‍💻 I’m a **Software/Backend Engineer**
 
